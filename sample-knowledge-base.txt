@@ -1,0 +1,249 @@
+SOYBEAN CULTIVATION HISTORY - DODOMA REGION, TANZANIA
+Farm Size: 100 hectares
+Crop: Soybeans (Glycine max)
+Location: 6.37°S, 34.89°E
+Period: 2019-2023
+
+================================================================================
+YEAR 2019 - BASELINE SEASON
+================================================================================
+Planting Date: November 15, 2019
+Variety: TGx 1835-10E (Early maturing, 90-100 days)
+Seed Rate: 70 kg/ha
+
+WATERING SCHEDULE:
+- Total Water Applied: 450mm (rainfall + irrigation)
+- Week 1-2: Daily irrigation, 25mm/week
+- Week 3-6: Irrigation every 3 days, 30mm/week
+- Week 7-10: Critical pod filling period, every 2 days, 35mm/week
+- Week 11-13: Reduced to 20mm/week
+
+FERTILIZATION:
+- Pre-planting: NPK 10-20-10 at 120 kg/ha
+- Rhizobium inoculant applied to seeds before planting
+- Week 6: Foliar spray with micronutrients (Boron, Molybdenum)
+
+HARVEST:
+- Date: April 10, 2020
+- Yield: 2.1 tons/hectare
+- Quality: Good protein content (38%)
+
+NDVI OBSERVATIONS:
+- Week 4: NDVI 0.45 (establishment phase)
+- Week 7: NDVI 0.65 (vegetative growth)
+- Week 9: NDVI 0.72 (PEAK - flowering stage)
+- Week 12: NDVI 0.58 (pod filling)
+- Week 14: NDVI 0.35 (maturity)
+
+CHALLENGES:
+- Delayed rains in November
+- Minor pest pressure (pod borers)
+
+================================================================================
+YEAR 2020 - IMPROVED PRACTICES
+================================================================================
+Planting Date: November 20, 2020
+Variety: TGx 1835-10E
+Seed Rate: 70 kg/ha
+
+WATERING SCHEDULE:
+- Total Water Applied: 520mm
+- Week 1-2: Daily irrigation, 30mm/week
+- Week 3-6: Every 2-3 days, 35mm/week
+- Week 7-10: Critical period, every 2 days, 40mm/week
+- Week 11-13: 25mm/week
+
+FERTILIZATION:
+- Pre-planting: NPK 10-20-10 at 140 kg/ha (increased from 2019)
+- Rhizobium inoculant (strain CB1809)
+- Week 6: Potassium sulfate 60 kg/ha during flowering
+- Week 8: Foliar micronutrients
+
+HARVEST:
+- Date: April 15, 2021
+- Yield: 2.4 tons/hectare (+14% from 2019)
+- Quality: Excellent protein (40%)
+
+NDVI OBSERVATIONS:
+- Week 4: NDVI 0.52
+- Week 7: NDVI 0.71
+- Week 8: NDVI 0.78 (PEAK - early pod development)
+- Week 11: NDVI 0.63
+- Week 14: NDVI 0.38
+
+IMPROVEMENTS:
+- Better water management
+- Potassium supplementation during flowering showed positive results
+
+================================================================================
+YEAR 2021 - VARIETY CHANGE
+================================================================================
+Planting Date: November 10, 2021
+Variety: Gazelle (Medium maturing, 110-120 days, drought tolerant)
+Seed Rate: 65 kg/ha
+
+WATERING SCHEDULE:
+- Total Water Applied: 480mm
+- Week 1-3: Establishment, 25mm/week
+- Week 4-7: Vegetative growth, 30mm/week
+- Week 8-11: Critical flowering and pod set, 40mm/week
+- Week 12-15: Pod filling, 30mm/week
+- Week 16-17: Maturity, 15mm/week
+
+FERTILIZATION:
+- Pre-planting: NPK 10-20-10 at 150 kg/ha
+- Rhizobium inoculant (fresh batch)
+- Week 6: Foliar micronutrients (Boron 0.5kg/ha, Molybdenum 0.2kg/ha)
+- Week 9: Potassium sulfate 65 kg/ha
+
+HARVEST:
+- Date: April 18, 2022
+- Yield: 2.6 tons/hectare (+8% from 2020)
+- Quality: Very good (39% protein)
+
+NDVI OBSERVATIONS:
+- Week 5: NDVI 0.58
+- Week 8: NDVI 0.74
+- Week 9: NDVI 0.81 (PEAK - full flowering)
+- Week 12: NDVI 0.71 (healthy pod filling)
+- Week 15: NDVI 0.45
+- Week 17: NDVI 0.30
+
+NOTES:
+- Gazelle variety showed better drought tolerance
+- Extended growing season allowed better yield
+- Higher NDVI values throughout season
+
+================================================================================
+YEAR 2022 - OPTIMIZED PROTOCOL
+================================================================================
+Planting Date: November 18, 2022
+Variety: Gazelle
+Seed Rate: 65 kg/ha
+
+WATERING SCHEDULE:
+- Total Water Applied: 510mm
+- Week 1-3: 27mm/week
+- Week 4-7: 32mm/week
+- Week 8-12: Peak demand, 42mm/week
+- Week 13-16: 32mm/week
+- Week 17-18: 18mm/week
+
+FERTILIZATION:
+- Pre-planting: NPK 10-20-10 at 150 kg/ha
+- Seed treatment: Rhizobium inoculant + fungicide
+- Week 5: First foliar spray (micronutrients)
+- Week 8: Potassium sulfate 70 kg/ha (increased)
+- Week 10: Second foliar spray
+
+HARVEST:
+- Date: April 22, 2023
+- Yield: 2.7 tons/hectare (+4% from 2021)
+- Quality: Excellent (40.5% protein)
+
+NDVI OBSERVATIONS:
+- Week 5: NDVI 0.60
+- Week 7: NDVI 0.73
+- Week 8-9: NDVI 0.83 (PEAK - sustained high values)
+- Week 12: NDVI 0.75
+- Week 15: NDVI 0.50
+- Week 18: NDVI 0.32
+
+IMPROVEMENTS:
+- More consistent watering during critical periods
+- Increased potassium application
+- Better timing of micronutrient application
+
+================================================================================
+YEAR 2023 - BEST PRACTICES CONSOLIDATED
+================================================================================
+Planting Date: November 12, 2023
+Variety: Gazelle
+Seed Rate: 65 kg/ha
+
+WATERING SCHEDULE:
+- Total Water Applied: 495mm
+- Week 1-3: Establishment, 28mm/week
+- Week 4-7: Vegetative growth, 33mm/week  
+- Week 8-12: Critical period, 43mm/week
+- Week 13-16: Pod filling, 31mm/week
+- Week 17-18: Maturity, 16mm/week
+
+FERTILIZATION:
+- Pre-planting: NPK 10-20-10 at 155 kg/ha
+- Seed treatment: Rhizobium inoculant (CB1809 strain) + fungicide
+- Week 4: Foliar micronutrients (Boron, Molybdenum, Zinc)
+- Week 8: Potassium sulfate 75 kg/ha at early flowering
+- Week 11: Second foliar application
+
+HARVEST:
+- Date: April 25, 2024
+- Yield: 2.8 tons/hectare (+4% from 2022)
+- Quality: Premium (41% protein, excellent seed size)
+
+NDVI OBSERVATIONS:
+- Week 5: NDVI 0.62
+- Week 7: NDVI 0.76
+- Week 9: NDVI 0.85 (PEAK - highest recorded)
+- Week 12: NDVI 0.77 (sustained high green mass)
+- Week 15: NDVI 0.52
+- Week 18: NDVI 0.33
+
+WEATHER CORRELATIONS:
+- Optimal rainfall pattern (320mm during season)
+- Mean temperature 24-28°C during critical growth stages
+- No extreme heat events
+
+KEY SUCCESS FACTORS:
+- Gazelle variety consistently outperforms TGx 1835-10E
+- Potassium supplementation critical for pod filling
+- Rhizobium inoculation improves nitrogen fixation
+- NDVI peaks correlate with proper water management during flowering
+- Micronutrient applications support enzyme systems
+
+================================================================================
+FIVE-YEAR SUMMARY AND TRENDS
+================================================================================
+
+YIELD PROGRESSION:
+2019: 2.1 t/ha (baseline)
+2020: 2.4 t/ha (+14%)
+2021: 2.6 t/ha (+8%)
+2022: 2.7 t/ha (+4%)
+2023: 2.8 t/ha (+4%)
+Total improvement: +33% over 5 years
+
+WATER USE EFFICIENCY:
+- Most efficient: 2021 (480mm for 2.6 t/ha = 5.4 kg/mm)
+- Least efficient: 2020 (520mm for 2.4 t/ha = 4.6 kg/mm)
+- Optimal range appears to be 480-510mm total water
+
+FERTILIZATION INSIGHTS:
+- NPK application optimal at 150-155 kg/ha
+- Potassium sulfate at 70-75 kg/ha during flowering critical
+- Rhizobium inoculation essential (adds ~0.3 t/ha)
+- Micronutrients provide 5-8% yield boost
+
+NDVI AS PREDICTOR:
+- Peak NDVI correlates strongly with final yield
+- NDVI > 0.80 at week 8-9 indicates excellent crop health
+- Sustained high NDVI during weeks 8-12 predicts yields > 2.5 t/ha
+
+RECOMMENDATIONS FOR YEAR 2024-2025:
+Based on 5-year analysis, optimal protocol should include:
+1. Gazelle variety (proven performance)
+2. Planting mid-November (avoid early season stress)
+3. Water: 490-510mm total, with peak application weeks 8-12
+4. NPK 10-20-10: 155 kg/ha at planting
+5. Potassium sulfate: 75 kg/ha at early flowering (week 8)
+6. Rhizobium inoculation mandatory
+7. Foliar micronutrients: weeks 4 and 11
+8. Target NDVI > 0.82 during peak period
+
+EXPECTED OUTCOME:
+- Yield target: 2.9-3.1 tons/hectare
+- Peak NDVI: 0.85-0.88
+- Protein content: 40-42%
+- Water use efficiency: > 5.5 kg/mm
+
+================================================================================
