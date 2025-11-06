@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/api/**", "destination": "https://predictive-crops-production.up.railway.app/api/:splat" }
+  ]
+}
