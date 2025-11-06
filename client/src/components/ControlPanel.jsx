@@ -1,6 +1,9 @@
 import React, { useState, useRef } from 'react';
 import axios from 'axios';
+import config from '../config';
 import './ControlPanel.css';
+
+const API_URL = config.apiUrl;
 
 function ControlPanel({ ndviEnabled, setNdviEnabled, analysisResult, setAnalysisResult, loading, setLoading }) {
   const [selectedFile, setSelectedFile] = useState(null);
@@ -66,14 +69,14 @@ function ControlPanel({ ndviEnabled, setNdviEnabled, analysisResult, setAnalysis
       formData.append('file', selectedFile);
       
       console.log('📤 Uploading file:', selectedFile.name);
-      const uploadResponse = await axios.post('/api/upload-knowledge-base', formData);
+      const uploadResponse = await axios.post(`${API_URL}/api/upload-knowledge-base`, formData);
       console.log('✅ File uploaded successfully');
       
       setUploadStatus('Processing data...');
 
       // Fetch weather data
       console.log('🌤️ Fetching weather data...');
-      const weatherResponse = await axios.get('/api/weather-history', {
+      const weatherResponse = await axios.get(`${API_URL}/api/weather-history`, {
         params: {
           startYear: 2019,
           endYear: 2023
@@ -91,7 +94,7 @@ function ControlPanel({ ndviEnabled, setNdviEnabled, analysisResult, setAnalysis
       setUploadStatus('Running AI analysis...');
       console.log('🤖 Sending to AI analysis...');
       
-      const analysisResponse = await axios.post('/api/analyze', analysisPayload);
+      const analysisResponse = await axios.post(`${API_URL}/api/analyze`, analysisPayload);
       console.log('✅ AI Analysis complete:', analysisResponse.data);
 
       setAnalysisResult(analysisResponse.data.analysis);
@@ -100,7 +103,7 @@ function ControlPanel({ ndviEnabled, setNdviEnabled, analysisResult, setAnalysis
       setUploadStatus('Calculating financial projections...');
       console.log('💰 Fetching financial analysis...');
       
-      const financialResponse = await axios.post('/api/financial-analysis', {
+      const financialResponse = await axios.post(`${API_URL}/api/financial-analysis`, {
         recommendations: analysisResponse.data.analysis,
         farmSize: 100
       });
@@ -195,7 +198,7 @@ OBSERVATIONS:
       console.log('🌤️ Fetching weather data...');
       setUploadStatus('Fetching weather data...');
 
-      const weatherResponse = await axios.get('/api/weather-history', {
+      const weatherResponse = await axios.get(`${API_URL}/api/weather-history`, {
         params: { startYear: 2019, endYear: 2023 }
       });
 
@@ -209,7 +212,7 @@ OBSERVATIONS:
         ndviData: { note: 'Using historical NDVI data from knowledge base' }
       };
 
-      const analysisResponse = await axios.post('/api/analyze', analysisPayload);
+      const analysisResponse = await axios.post(`${API_URL}/api/analyze`, analysisPayload);
       console.log('✅ AI Analysis response received:', analysisResponse.data);
       console.log('Analysis result structure:', {
         hasAnalysis: !!analysisResponse.data.analysis,
@@ -224,7 +227,7 @@ OBSERVATIONS:
       console.log('💰 Fetching financial analysis...');
       setUploadStatus('Calculating financial projections...');
       
-      const financialResponse = await axios.post('/api/financial-analysis', {
+      const financialResponse = await axios.post(`${API_URL}/api/financial-analysis`, {
         recommendations: analysisResponse.data.analysis,
         farmSize: 100
       });

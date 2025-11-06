@@ -2,7 +2,10 @@ import React, { useEffect, useState } from 'react';
 import { MapContainer, TileLayer, Polygon, useMap } from 'react-leaflet';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
+import config from '../config';
 import './MapView.css';
+
+const API_URL = config.apiUrl;
 
 // Tanzania agriculture region coordinates
 // Tanzania spans: 7° to 11.5° South latitude, 30° to 38° East longitude
@@ -33,7 +36,7 @@ function NDVILayer({ enabled }) {
     let ndviLayer = null;
 
     // Fetch Sentinel Hub configuration
-    fetch('/api/ndvi-info')
+    fetch(`${API_URL}/api/ndvi-info`)
       .then(res => res.json())
       .then(config => {
         console.log('NDVI configuration:', config);
@@ -46,7 +49,7 @@ function NDVILayer({ enabled }) {
           console.log('WMS URL:', `https://services.sentinel-hub.com/ogc/wms/${config.instanceId}`);
           
           // Test WMS connectivity
-          fetch('/api/test-wms-tile')
+          fetch(`${API_URL}/api/test-wms-tile`)
             .then(r => r.json())
             .then(testResult => {
               console.log('WMS Test Result:', testResult);
